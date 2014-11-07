@@ -3,7 +3,7 @@
 --
 -- Module      :  Main
 -- Copyright   :
--- License     :  AllRightsReserved
+-- License     :  WTFPL http://www.wtfpl.net/about
 --
 -- Maintainer  :  Lev Dubinets
 -- Stability   :
